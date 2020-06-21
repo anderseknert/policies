@@ -1,4 +1,4 @@
-package global.anderseknert.kubernetes.admission.mutating
+package global.anderseknert
 
 allow {
     true
