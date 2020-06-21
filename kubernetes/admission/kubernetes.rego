@@ -1,4 +1,4 @@
-package global.anderseknert.kubernetes
+package global.anderseknert
 
 opa_container := {
   "image": "openpolicyagent/opa:0.21.0-istio",
